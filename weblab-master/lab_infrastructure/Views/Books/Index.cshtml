@@ -1,0 +1,311 @@
+﻿@model IEnumerable<lab_domain.Model.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <style>
+        .search-container {
+            margin: 20px 0;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        #searchInput {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        .ui-autocomplete {
+            max-height: 400px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            z-index: 1000;
+        }
+
+        .autocomplete-item {
+            display: flex;
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+            align-items: center;
+        }
+
+        .deck-thumbnail {
+            width: 50px;
+            height: 70px;
+            object-fit: cover;
+            margin-right: 10px;
+        }
+
+        .deck-info {
+            flex-grow: 1;
+        }
+
+        .deck-name {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .deck-brand {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .deck-price {
+            color: #2ecc71;
+            font-weight: bold;
+        }
+
+        .no-results {
+            background-color: #f8f9fa;
+            justify-content: center;
+            padding: 15px;
+        }
+
+        .no-results-message {
+            color: #6c757d;
+            font-style: italic;
+            text-align: center;
+            width: 100%;
+        }
+    </style>
+}
+
+<div class="layout">
+    <div class="contacts">
+        <h2>Contact Us</h2>
+        <p>Email: info@bookstore.com</p>
+        <p>Phone: +(380)63-755-62-33</p>
+    </div>
+
+    <div class="books-column">
+        <h1>BookStore</h1>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search for books..." />
+        </div>
+
+        <p><a asp-action="Create" class="btn btn-addnewdeck">Add new book</a></p>
+
+        <div class="books-container">
+            @foreach (var item in Model)
+            {
+                <div class="book">
+                    <img src="@item.ImageUrl" alt="@item.Name" class="book-image" />
+                    <div class="book-content">
+                        <h3>@Html.DisplayFor(modelItem => item.Name)</h3>
+                        <p><strong>Price:</strong> @Html.DisplayFor(modelItem => item.Price)</p>
+                        <p><strong>Stock:</strong> @Html.DisplayFor(modelItem => item.Stock)</p>
+                        <p><strong>Rating:</strong> @Html.DisplayFor(modelItem => item.Rating)</p>
+                        <p><strong>Publisher:</strong> @Html.DisplayFor(modelItem => item.Publisher.Name)</p>
+
+                        @if (item.Discounts != null && item.Discounts.Count > 0)
+                        {
+                            <p>
+                                <strong>Discounts:</strong>
+                                @foreach (var discount in item.Discounts)
+                                {
+                                    <span class="discount">@discount.DiscountPercentage% (valid from @discount.StartDate to @discount.EndDate)</span>
+                                }
+                            </p>
+                        }
+
+                        @if (item.BookTags != null && item.BookTags.Count > 0)
+                        {
+                            <p>
+                                <strong>Tags:</strong>
+                                @foreach (var tag in item.BookTags)
+                                {
+                                    <span class="tag">@tag.Tag</span>
+                                }
+                            </p>
+                        }
+
+                        @if (item.Promotions != null && item.Promotions.Count > 0)
+                        {
+                            <p>
+                                <strong>Promotions:</strong>
+                                @foreach (var promo in item.Promotions)
+                                {
+                                    <span class="promo">@promo.PromoName</span>
+                                }
+                            </p>
+                        }
+                    </div>
+
+                    <div class="book-actions">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-editdeck">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-detailsdeck">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-deletedeck">Delete</a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<style>
+    .layout {
+        display: flex;
+        gap: 20px;
+    }
+
+    .contacts {
+        width: 350px;
+        position: fixed;
+        top: 180px;
+        left: 20px;
+        background-color: #fff;
+        padding: 15px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        border-radius: 25px;
+    }
+
+    .books-column {
+        margin-left: 280px;
+        flex-grow: 1;
+    }
+
+    .books-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: left;
+    }
+
+    .book {
+        display: flex; 
+        flex-direction: column; 
+        justify-content: space-between; 
+        background: #fff;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        width: calc(25% - 20px);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+    }
+
+    .book-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .book-content {
+        padding: 15px;
+        flex-grow: 1; 
+    }
+
+    .book-actions {
+        margin-top: 10px; 
+        margin-left: 15px;
+        margin-bottom: 5px;
+    }
+
+    .tag, .promo, .discount {
+        background-color: #f0f0f0;
+        border-radius: 5px;
+        padding: 3px 8px;
+        margin-right: 5px;
+        font-size: 0.9em;
+        display: inline-block;
+    }
+
+    .btn-addnewdeck {
+        background-color: #28a745;
+    }
+
+    .btn-editdeck {
+        background-color: #007bff;
+    }
+
+    .btn-detailsdeck {
+        background-color: #17a2b8;
+    }
+
+    .btn-deletedeck {
+        background-color: #dc3545;
+    }
+</style>
+
+@section Scripts {
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            let noResultsTimeout;
+
+            $("#searchInput").autocomplete({
+                source: function (request, response) {
+                    if (noResultsTimeout) {
+                        clearTimeout(noResultsTimeout);
+                    }
+
+                    $.ajax({
+                        url: '@Url.Action("Search", "Books")',
+                        dataType: "json",
+                        data: {
+                            term: request.term
+                        },
+                        success: function (data) {
+                            if (data.length === 0 && request.term.length >= 3) {
+                                noResultsTimeout = setTimeout(function () {
+                                    var noResultsItem = {
+                                        label: 'No results found',
+                                        value: request.term,
+                                        isNoResults: true
+                                    };
+                                    response([noResultsItem]);
+                                }, 1000);
+
+                                response([]);
+                            } else {
+                                response(data);
+                            }
+                        }
+                    });
+                },
+                minLength: 3,
+                delay: 300,
+                select: function (event, ui) {
+                    if (ui.item.isNoResults) {
+                        event.preventDefault();
+                        return;
+                    }
+                    window.location.href = '@Url.Action("Details", "Books")/' + ui.item.id;
+                }
+            }).autocomplete("instance")._renderItem = function (ul, item) {
+                if (item.isNoResults) {
+                    return $("<li>")
+                        .append(`<div class='autocomplete-item no-results'>
+                                            <div class='no-results-message'>
+                                                No matches found for "${item.value}"
+                                            </div>
+                                        </div>`)
+                        .appendTo(ul);
+                }
+
+                return $("<li>")
+                    .append(`<div class='autocomplete-item'>
+                                        <img src='${item.imageUrl}' class='deck-thumbnail' />
+                                        <div class='deck-info'>
+                                            <div class='deck-name'>${item.name}</div>
+                                            <div class='deck-brand'>${item.brand}</div>
+                                            <div class='deck-price'>$${item.price}</div>
+                                            <div>In Stock: ${item.stock}</div>
+                                        </div>
+                                    </div>`)
+                    .appendTo(ul);
+            };
+
+            $("#searchInput").on('input', function () {
+                if (noResultsTimeout) {
+                    clearTimeout(noResultsTimeout);
+                }
+            });
+        });
+    </script>
+}

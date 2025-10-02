@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\bin\Debug\net8.0\lab_domain.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\bin\Debug\net8.0\lab_domain.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\bin\Debug\net8.0\lab_domain.dll
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\bin\Debug\net8.0\lab_domain.pdb
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\lab_domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\lab_domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\lab_domain.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\lab_domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\lab_domain.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\lab_domain.dll
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\refint\lab_domain.dll
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\lab_domain.pdb
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\lab_domain.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\weblab-books-final\weblab-master\lab_domain\obj\Debug\net8.0\ref\lab_domain.dll

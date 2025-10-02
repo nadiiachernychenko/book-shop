@@ -1,0 +1,1041 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\booksshopwebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\booksshopwebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\booktags\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\booktags\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\bookgenres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\bookgenres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\bookgenres\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\bookgenres\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\bookgenres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\bookgenres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\bookgenres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\bookgenres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\publishersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\publishersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\promotionsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\promotionsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\discountsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\discountsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\chartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\chartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\booktagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\booktagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\booktagsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\booktagsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\bookgenrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\bookgenrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\controllers\\bookgenresapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\controllers\\bookgenresapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\booktag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\booktag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_domain\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FB62A-2F76-43E4-BA5D-ED0E1DBA5709}|lab_domain\\lab_domain.csproj|solutionrelative:lab_domain\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\promotions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\promotions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\promotions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\promotions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\booktags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\booktags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\discounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\discounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\bookgenres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\bookgenres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\booktags\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\booktags\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\discounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\discounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\discounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\discounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\discounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\discounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\views\\discounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\views\\discounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{860C0E45-CA01-405D-8E51-8D811145F1CB}|lab_infrastructure\\lab_infrastructure.csproj|solutionrelative:lab_infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\BookGenres\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Edit.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\BookGenres\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:06:07.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookTags\\Delete.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\BookTags\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookTags\\Delete.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\BookTags\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:58:37.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksShopWebContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\BooksShopWebContext.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\BooksShopWebContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\BooksShopWebContext.cs",
+              "RelativeToolTip": "lab_infrastructure\\BooksShopWebContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwEYBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:09:35.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Program.cs",
+              "RelativeToolTip": "lab_infrastructure\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:09:27.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Delete.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\BookGenres\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Delete.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\BookGenres\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T21:06:12.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\BookGenres\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Create.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\BookGenres\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T21:06:06.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "lab_infrastructure\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:05:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\BookGenres\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Details.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\BookGenres\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T21:06:17.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:05:56.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PromotionsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\PromotionsController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\PromotionsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\PromotionsController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\PromotionsController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAkwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:56:45.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublishersApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\PublishersApiController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\PublishersApiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\PublishersApiController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\PublishersApiController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:59:48.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:24:44.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PromotionsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\PromotionsApiController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\PromotionsApiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\PromotionsApiController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\PromotionsApiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:59:27.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:04:47.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiscountsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\DiscountsApiController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\DiscountsApiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\DiscountsApiController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\DiscountsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:57:45.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChartApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\ChartApiController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\ChartApiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\ChartApiController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\ChartApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:57:08.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiscountsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\DiscountsController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\DiscountsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\DiscountsController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\DiscountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:52:15.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookTagsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BookTagsController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\BookTagsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BookTagsController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\BookTagsController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwvwkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:26:21.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookTagsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BookTagsApiController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\BookTagsApiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BookTagsApiController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\BookTagsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:01:43.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:34:00.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BooksApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BooksApiController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\BooksApiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BooksApiController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\BooksApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:33:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookGenresController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BookGenresController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\BookGenresController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BookGenresController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\BookGenresController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:27:18.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookGenresApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BookGenresApiController.cs",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Controllers\\BookGenresApiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Controllers\\BookGenresApiController.cs",
+              "RelativeToolTip": "lab_infrastructure\\Controllers\\BookGenresApiController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA9wFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:27:13.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\User.cs",
+              "RelativeToolTip": "lab_domain\\Model\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:45.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Review.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Review.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:38.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Publisher.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Publisher.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Publisher.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:37.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Payment.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Payment.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Payment.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:35.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Order.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:26.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupportTicket.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\SupportTicket.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\SupportTicket.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\SupportTicket.cs",
+              "RelativeToolTip": "lab_domain\\Model\\SupportTicket.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:01:09.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Favorite.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Favorite.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Favorite.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:25.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\OrderItem.cs",
+              "RelativeToolTip": "lab_domain\\Model\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:59:56.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Promotion.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Promotion.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Promotion.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Promotion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:23:47.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Delivery.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Delivery.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Delivery.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Delivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:21.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Cart.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Cart.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Cart.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:19.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookTag.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\BookTag.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\BookTag.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\BookTag.cs",
+              "RelativeToolTip": "lab_domain\\Model\\BookTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:46:06.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Discount.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Discount.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Discount.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Discount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:35:01.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\Book.cs",
+              "RelativeToolTip": "lab_domain\\Model\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:29:18.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\BookGenre.cs",
+              "RelativeDocumentMoniker": "lab_domain\\Model\\BookGenre.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_domain\\Model\\BookGenre.cs",
+              "RelativeToolTip": "lab_domain\\Model\\BookGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:46:05.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Promotions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Promotions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Promotions\\Edit.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Promotions\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T11:30:23.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Promotions\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Promotions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Promotions\\Index.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Promotions\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T11:30:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\BookGenres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookGenres\\Index.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\BookGenres\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T11:30:04.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookTags\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\BookTags\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookTags\\Index.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\BookTags\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T10:39:29.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T11:30:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T11:30:20.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Statistics\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Statistics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Statistics\\Index.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Statistics\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:35:52.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Discounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Index.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Discounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T18:54:01.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:44:26.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T20:57:27.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookTags\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\BookTags\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\BookTags\\Details.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\BookTags\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:58:38.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T21:10:00.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:58:55.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Publishers\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Publishers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Publishers\\Details.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Publishers\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:59:21.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:35:29.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Discounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Edit.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Discounts\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:18:27.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Discounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Create.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Discounts\\Create.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T09:12:26.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAJ0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-01T21:05:36.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAAEENAAAAAAAAAAAlwE4NAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-01T21:05:24.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "lab_infrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAADUUAAAAAAAAAAAlwEIUAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-01T21:05:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "additional-methods.min.js",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeDocumentMoniker": "lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeToolTip": "lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAADmFAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-01T21:05:16.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "lab_infrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAADoCAAAAAAAAAAAlwEoCAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-01T21:04:46.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Discounts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Details.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Discounts\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T18:52:14.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "lab_infrastructure\\Views\\Discounts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\Views\\Discounts\\Delete.cshtml",
+              "RelativeToolTip": "lab_infrastructure\\Views\\Discounts\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T18:52:01.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\appsettings.json",
+              "RelativeDocumentMoniker": "lab_infrastructure\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\weblab-books-final\\weblab-master\\lab_infrastructure\\appsettings.json",
+              "RelativeToolTip": "lab_infrastructure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T18:09:19.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
